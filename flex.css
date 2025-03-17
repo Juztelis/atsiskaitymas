@@ -52,7 +52,6 @@
   top: 50px;
 }
 
-/* Dešinė skiltis su 4 blokais */
 .right-column {
   flex: 0 0 150px;
   display: flex;
